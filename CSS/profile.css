@@ -1,0 +1,42 @@
+:root {
+    --content-box: #f7f7f6;
+    --secondary-gray: #676767;
+    --suspended-p: #9a9a9a;
+    --honey: #F6BE00;
+    --main-h1: #c67b00;
+    
+}
+
+
+
+.profile-select-div a{
+    width: 100%;
+    background-color: #f0f0f0;
+    transition: box-shadow 0.3s ease-in-out;
+    transition: 0.2s ease-in-out;
+}
+
+.profile-select-div a:hover{
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: var(--honey);
+    color: black;
+}
+
+.profile-select-div a.active-a{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 100%;
+    background-color: var(--honey);
+    color: black;
+
+}
+
+.info-table{
+    background-color: var(--content-box) !important;
+    
+}
+
+.info-table tr td th{
+    background-color: var(--content-box) !important;
+    
+}

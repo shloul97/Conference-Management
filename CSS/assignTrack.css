@@ -1,0 +1,12 @@
+
+.read-input{
+    background-color: #bcd4f0;
+    cursor: default;
+    font-style: italic;
+}
+
+.read-input-disable{
+    background-color: #ffc7c7;
+    cursor: default;
+    font-style: italic;
+}

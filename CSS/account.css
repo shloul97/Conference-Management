@@ -1,0 +1,8 @@
+.warn-msg-div{
+    width: 100%;
+    height: fit-content;
+    padding: 8px;
+    background-color: #ffcaca;
+    border-radius: 8px;
+    text-align: center;
+}
